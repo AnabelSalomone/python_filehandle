@@ -14,7 +14,7 @@ fname = fname_input.replace(" ", "") + file_ext
 with open(fname) as fhandle:
   for line in fhandle:
     if not line.startswith('Love'): continue
-    count =+ 1
+    count = count + 1
     verse = line.rstrip()
     cur.execute('INSERT INTO Sonnets (verse, count) VALUES (?, ?)', (line, count,))
     conn.commit()
