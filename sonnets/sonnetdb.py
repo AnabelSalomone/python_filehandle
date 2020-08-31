@@ -20,6 +20,3 @@ with open(fname) as fhandle:
     conn.commit()
 
     sqlval = 'SELECT verse, count FROM Sonnets ORDER BY count'
-
-    for row in cur.execute(sqlval):
-      print(str(row))
