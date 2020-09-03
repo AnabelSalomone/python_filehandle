@@ -125,7 +125,7 @@
 		]
 	},
 	{
-		"id": 6,
+		"id": 7,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/1/16/Revolver.jpg",
 		"name": "Revolver",
 		"tracks": [
@@ -146,7 +146,7 @@
 		]
 	},
 	{
-		"id": 7,
+		"id": 8,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg",
 		"name": "Sgt. Pepper's Lonely Hearts Club Band",
 		"tracks": [
@@ -166,7 +166,7 @@
 		]
 	},
 	{
-		"id": 8,
+		"id": 9,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/8/85/TheBeatlesMagicalMysteryTouralbumcover.jpg",
 		"name": "Magical Mystery Tour",
 		"tracks": [
@@ -184,7 +184,7 @@
 		]
 	},
 	{
-		"id": 9,
+		"id": 10,
 		"cover": "https://upload.wikimedia.org/wikipedia/commons/2/20/TheBeatles68LP.jpg",
 		"name": "The Beatles (Album 1)",
 		"tracks": [
@@ -208,7 +208,7 @@
 		]
 	},
 	{
-		"id": 10,
+		"id": 11,
 		"cover": "https://upload.wikimedia.org/wikipedia/commons/2/20/TheBeatles68LP.jpg",
 		"name": "The Beatles (Album 2)",
 		"tracks": [
@@ -228,7 +228,7 @@
 		]
 	},
 	{
-		"id": 11,
+		"id": 12,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg",
 		"name": "Yellow Submarine",
 		"tracks": [
@@ -248,7 +248,7 @@
 		]
 	},
 	{
-		"id": 12,
+		"id": 13,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
 		"name": "Abbey Road",
 		"tracks": [
@@ -272,7 +272,7 @@
 		]
 	},
 	{
-		"id": 13,
+		"id": 14,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg",
 		"name": "Let It Be",
 		"tracks": [
@@ -291,7 +291,7 @@
 		]
 	},
 	{
-		"id": 14,
+		"id": 15,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/d/dc/The_Beatles_-_Past_Masters_-_Volume_One.jpg",
 		"name": "Past Masters 1",
 		"tracks": [
@@ -315,7 +315,7 @@
 		]
 	},
 	{
-		"id": 15,
+		"id": 16,
 		"cover": "https://upload.wikimedia.org/wikipedia/en/1/14/The_Beatles_-_Past_Masters_-_Volume_Two.jpg",
 		"name": "Past Masters 2",
 		"tracks": [
